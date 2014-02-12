@@ -46,10 +46,10 @@ import javax.persistence.spi.PersistenceUnitInfo;
 import javax.persistence.spi.PersistenceUnitTransactionType;
 import javax.sql.DataSource;
 
-import org.adligo.i.adi.client.InvocationException;
+import org.adligo.i.adi.shared.InvocationException;
 import org.adligo.i.db.I_DbConfig;
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 import org.dom4j.Element;
 import org.hibernate.HibernateException;
 import org.hibernate.Interceptor;

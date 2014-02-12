@@ -5,8 +5,8 @@ import javax.naming.event.NamespaceChangeListener;
 import javax.naming.event.NamingEvent;
 import javax.naming.event.NamingExceptionEvent;
 
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 import org.hibernate.ejb.AvailableSettings;
 import org.hibernate.service.jndi.JndiException;
 import org.hibernate.service.jndi.JndiNameException;
