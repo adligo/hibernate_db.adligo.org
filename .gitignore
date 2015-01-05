@@ -1,4 +1,5 @@
-/bin
-classes/
+/bin/
+/build/
+/classes/
 hibernate_db*.jar
 
